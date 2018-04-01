@@ -1,0 +1,2 @@
+本项目与zookeeper的分布式应用系统服务器上下线动态感知demo类似，
+该demo的github地址为https://github.com/qiushangwenyue/Zookeeper-Java-API-Demo
